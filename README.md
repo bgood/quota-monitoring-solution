@@ -46,7 +46,7 @@ Functions, Pub/Sub, Dataflow and BigQuery.
     or list of folder Ids.
 *   Cloud Functions are used to scan quotas across projects for the configured
     parent node.
-*   BigQuery is used to store data.
+* BigQuery is used to store data.
 *   Alert threshold will be applicable across all metrics.
 *   Alerts can be received by Email, Mobile App, PagerDuty, SMS, Slack,
     Webhooks and Pub/Sub. Cloud Monitoring custom log metric has been leveraged to
