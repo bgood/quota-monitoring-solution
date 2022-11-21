@@ -9,7 +9,7 @@ exclude_rule 'MD041'
 exclude_rule 'MD002'
 
 # Asterisks for unordered lists
-rule 'MD004', :style => :asterisk
+#rule 'MD004', :style => :asterisk
 
 # Nested lists should be indented with four spaces.
 rule 'MD007', :indent => 4
